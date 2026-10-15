@@ -1,0 +1,4 @@
+ grep -r HINT-1 .
+ grep -r kladovshik
+ grep -ri kladovshik
+ grep CODE 2025/buhgalteriya/otchet_0015.txt
